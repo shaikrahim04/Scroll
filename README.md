@@ -37,7 +37,7 @@ cp .env.example .env
 
 The app can be configured to use different LLM providers:
 - Gemini (Cloud-based)
-- Local (Ollama with Llama2)
+- Local (Ollama with Llama3.2)
 - None (Uses template-based notifications)
 
 ## Usage
