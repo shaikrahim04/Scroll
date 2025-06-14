@@ -31,7 +31,7 @@ cp .env.example .env
 
 4. For local LLM support:
 - Install Ollama from [ollama.ai](https://ollama.ai)
-- Pull the Llama2 model: `ollama pull llama2`
+- Pull the Llama model: `ollama pull llama3.2:3b`
 
 ## Configuration
 
